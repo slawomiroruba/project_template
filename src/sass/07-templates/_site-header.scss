@@ -11,6 +11,14 @@
 		padding-top: $grid-base * 2.5;
 	}
 
+	&__logoimg {
+		text-align: center;
+
+		@include medium-up {
+			text-align: left;
+		}
+	}
+
 	&__menu {
 		margin-top: $grid-base * 2;
 
