@@ -1,18 +1,18 @@
 // Kolory
 $color_heading: #000;
 $color_subheading: rgba(var($color_heading), 0.7);
-$color_text: #F9FBFE;
-$color_textOnDark: #F9FBFE;
+$color_text: #2e2e2e;
+$color_textOnDark: #f9fbfe;
 
-$color_primary: #60DC64;
-$color_secondary: #3B99E1;
+$color_primary: #60dc64;
+$color_secondary: #3b99e1;
 
-$bg_color: #D3EAFA;
+$bg_color: #d3eafa;
 $bg_color: rgba(var($bg_color), 0.8);
 
 $white: #fff;
 
-$primary_gradient: linear-gradient(45deg, #3B99E1 0%, #60DC64 100%);
+$primary_gradient: linear-gradient(45deg, #3b99e1 0%, #60dc64 100%);
 
 // Tekst
 
@@ -27,16 +27,16 @@ $font-size-7: $font-size-base * 0.625; //10px
 
 // Wysokości linii
 
-$line-height-sm: 1.2; 
-$line-height-base: 1.5; 
-$line-height-lg: 1.8; 
+$line-height-sm: 1.2;
+$line-height-base: 1.5;
+$line-height-lg: 1.8;
 
 // Siatka
 
 $grid-base: 10px;
 $gutter: $grid-base * 1.5; //Odstęp pomiędzy pionowymi kolumnami
 
-// Zaokrąglenia 
+// Zaokrąglenia
 
 $border-radius: $grid-base * 0.5;
 
